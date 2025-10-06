@@ -1,3 +1,1 @@
-print("Hola desde GitHub")
-print("Hola desde mi computadora local")
-
+print('Hola grupo')
